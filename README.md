@@ -1,16 +1,14 @@
-### Hi there 👋
+### 지혜의 놀이공간 🍊
 
-<!--
-**2wisdom/2wisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### State
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wisdom)](https://github.com/2wisdom/github-readme-stats)
+
+#### TopLanguage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2wisdom&hide=jupyter%20notebook&layout=compact)](https://github.com/2wisdom/github-readme-stats)
+
+#### Skills
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
