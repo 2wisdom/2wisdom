@@ -1,6 +1,6 @@
 ## 지혜의 놀이공간 🍊
 
-### State
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wisdom)](https://github.com/2wisdom/github-readme-stats)
 
 ### TopLanguage
