@@ -1,14 +1,12 @@
-### 지혜의 놀이공간 🍊
+## 지혜의 놀이공간 🍊
 
-
-
-#### State
+### State
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wisdom)](https://github.com/2wisdom/github-readme-stats)
 
-#### TopLanguage
+### TopLanguage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2wisdom&hide=jupyter%20notebook&layout=compact)](https://github.com/2wisdom/github-readme-stats)
 
-#### Skills
+### Skills
 
 <p>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
