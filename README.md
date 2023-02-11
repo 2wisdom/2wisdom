@@ -1,5 +1,8 @@
 ## 지혜의 놀이공간 🍊
 **✨즐거움엔 끝이없다 !✨**
+<br />
+
+[📝 2_2wisdom.log](https://velog.io/@2_2wisdom)
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wisdom)](https://github.com/2wisdom/github-readme-stats)
