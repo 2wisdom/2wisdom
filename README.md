@@ -4,7 +4,7 @@
 재밌어보이는건 다 하는 응애개발자
 <br />
 
-[📝 Lizzie's Develog]([https://velog.io/@2_2wisdom](https://www.lizzie-develog.com/))
+[📝 Lizzie's Develog](https://www.lizzie-develog.com/)
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wisdom)](https://github.com/2wisdom/github-readme-stats)
