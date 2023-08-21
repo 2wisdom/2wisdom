@@ -1,8 +1,6 @@
 ## ✨뭐든지 만드는 찌헤의 뚝딱공방✨
 **즐거움엔 끝이없다 !**
 <br />
-재밌어보이는건 다 하는 응애개발자
-<br />
 
 [📝 Lizzie's Develog](https://www.lizzie-develog.com/)
 
